@@ -4,6 +4,18 @@
 
 Completed a **disciplined 20-day self-taught bootcamp** to master Java + core DSA patterns for internship readiness. No shortcuts — daily commits, dry runs, real LeetCode solves.
 
+<<<<<<< HEAD
+=======
+Goal:
+Build discipline and consistency for Java + DSA internship preparation.
+
+# 🚀 20-Day Java DSA Mastery Journey
+
+**Jenish Dudhatra** | B.Tech CSBS @ PDPU (Pandit Deendayal Energy University), Rajkot, Gujarat | Jan 2026
+
+Completed a **disciplined 20-day self-taught bootcamp** to master Java + core DSA patterns for internship readiness. No shortcuts — daily commits, dry runs, real LeetCode solves.
+
+>>>>>>> 9c3ddb25fb6d5b8d1b987b6baff7e7cba8b227ce
 ## ✅ Patterns Mastered (No Repetition)
 - **Arrays & Strings**: Day04_Arrays
 - **Hashing (HashMap/Set)**: Day08_PrefixSum_HashMap, Day15_GroupAnagrams
@@ -55,4 +67,8 @@ java-20-days-dsa/
 
 [⭐ Star if helpful!] [LeetCode Profile](https://leetcode.com/u/jenishdudhatra/) | [LinkedIn](https://www.linkedin.com/in/jenish-dudhatra-2812b93a4/)
 
+<<<<<<< HEAD
 ![DSA Journey](https://img.shields.io/badge/20%20Days-Completed-brightgreen) ![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+=======
+![DSA Journey](https://img.shields.io/badge/20%20Days-Completed-brightgreen) ![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+>>>>>>> 9c3ddb25fb6d5b8d1b987b6baff7e7cba8b227ce
