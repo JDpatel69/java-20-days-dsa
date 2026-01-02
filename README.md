@@ -32,3 +32,27 @@ Completed a **disciplined 20-day self-taught bootcamp** to master Java + core DS
 
 **Intuitions & Dry Runs**: Each folder has Java skeletons + comments (e.g., monotonic stack like "line of people waiting for taller one").
 
+## 📁 Folder Structure (Day-Wise Progress)
+
+java-20-days-dsa/
+├── Day02_JavaBasics/           # Java OOPS, syntax
+├── Day04_Arrays/               # Two Sum, Anagram
+├── Day05_SlidingWindow/        # Longest Substring
+├── Day08_PrefixSum_HashMap/    # Subarray Sum K
+├── Day16_MonotonicStack/       # Daily Temps
+├── LeetCode/Arrays/            # Extra practice
+├── README.md                   # This file!
+└── ... (19 commits total)
+
+
+## 🧠 Learnings
+- **Real syntax struggles** → Dry runs > formulas (e.g., sliding window like "kitchen window for fresh veggies").
+- **Git daily**: Structured commits (no repeats).
+- **Time Complexity**: O(N) for most (HashSet/Sliding/Monotonic) — no fake 0ms tricks.
+- **Next**: AI Insta/YT Automation Project (Day 21+).
+
+**VS Code Runnable**: All Java files compile/run standalone (public static void main).
+
+[⭐ Star if helpful!] [LeetCode Profile](https://leetcode.com/u/jenishdudhatra/) | [LinkedIn](https://www.linkedin.com/in/jenish-dudhatra-2812b93a4/)
+
+![DSA Journey](https://img.shields.io/badge/20%20Days-Completed-brightgreen) ![Java](https://img.shields.io/badge/Java-Intermediate-orange)
