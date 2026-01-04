@@ -72,3 +72,9 @@ java-20-days-dsa/
 =======
 ![DSA Journey](https://img.shields.io/badge/20%20Days-Completed-brightgreen) ![Java](https://img.shields.io/badge/Java-Intermediate-orange)
 >>>>>>> 9c3ddb25fb6d5b8d1b987b6baff7e7cba8b227ce
+
+## Recent LeetCode Solves
+| #   | Problem                        | Difficulty | Date       | Link |
+|-----|--------------------------------|------------|------------|------|
+| 239 | Sliding Window Maximum        | Hard       | 03-Jan-26  | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) |
+| 287 | Find the Duplicate Number     | Medium     | Frequency Array (O(n) space) | 04-Jan-26 | Done   |
