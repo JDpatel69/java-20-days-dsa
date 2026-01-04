@@ -77,4 +77,4 @@ java-20-days-dsa/
 | #   | Problem                        | Difficulty | Date       | Link |
 |-----|--------------------------------|------------|------------|------|
 | 239 | Sliding Window Maximum        | Hard       | 03-Jan-26  | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) |
-
+| 287 | Find the Duplicate Number     | Medium     | Frequency Array (O(n) space) | 04-Jan-26 | Done   |
