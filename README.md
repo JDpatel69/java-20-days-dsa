@@ -80,3 +80,5 @@ java-20-days-dsa/
 | 287 | Find the Duplicate Number     | Medium     | Frequency Array (O(n) space) | 04-Jan-26 | Done   |
 | 53  | Maximum Subarray              | Medium     | Kadane's Algorithm       | 05-Jan-26 | Done   |
 | 152 | Maximum Product Subarray     | Medium     | Kadane variant (max/min) | 06-Jan-26 | Done   |
+| 238 | Product of Array Except Self | Medium | Prefix & Suffix Product | 07-Jan-26 | Done |
+
