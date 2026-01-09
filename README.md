@@ -82,5 +82,8 @@ java-20-days-dsa/
 | 152 | Maximum Product Subarray     | Medium     | Kadane variant (max/min) | 06-Jan-26 | Done   |
 | 238 | Product of Array Except Self | Medium | Prefix & Suffix Product | 07-Jan-26 | Done |
 | 202 | Happy Number | Easy | HashSet + Math | O(log n) | Done |
+| 258 | Add Digits | Easy | Math (Digital Root) | O(1) | Done |
+| 338 | Counting Bits | Medium | DP + Bit Manipulation | O(n) | Done |
+
 
 
