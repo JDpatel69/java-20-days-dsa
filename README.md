@@ -84,6 +84,7 @@ java-20-days-dsa/
 | 202 | Happy Number | Easy | HashSet + Math | O(log n) | Done |
 | 258 | Add Digits | Easy | Math (Digital Root) | O(1) | Done |
 | 338 | Counting Bits | Medium | DP + Bit Manipulation | O(n) | Done |
+| 190 | Reverse Bits | Easy | Bit Manipulation | O(1) | Done |
 
 
 
