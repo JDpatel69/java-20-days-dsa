@@ -85,6 +85,7 @@ java-20-days-dsa/
 | 258 | Add Digits | Easy | Math (Digital Root) | O(1) | Done |
 | 338 | Counting Bits | Medium | DP + Bit Manipulation | O(n) | Done |
 | 190 | Reverse Bits | Easy | Bit Manipulation | O(1) | Done |
+| 231 | Power of Two | Easy | Bit Manipulation | O(1) | Done |
 
 
 
