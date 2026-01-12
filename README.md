@@ -86,6 +86,7 @@ java-20-days-dsa/
 | 338 | Counting Bits | Medium | DP + Bit Manipulation | O(n) | Done |
 | 190 | Reverse Bits | Easy | Bit Manipulation | O(1) | Done |
 | 231 | Power of Two | Easy | Bit Manipulation | O(1) | Done |
+| 392 | Is Subsequence | Easy | Two Pointers | O(n) | Done |
 
 
 
