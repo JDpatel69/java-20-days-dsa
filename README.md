@@ -89,6 +89,10 @@ java-20-days-dsa/
 | 392 | Is Subsequence | Easy | Two Pointers | O(n) | Done |
 | 509 | Fibonacci Number | Easy | DP | O(n) | Done |
 | 303 | Range Sum Query – Immutable | Easy | Prefix Sum | O(1) per query | Done |
+| 461 | Hamming Distance | Easy | Bit Manipulation | O(1) | Done |
+| 724 | Find Pivot Index | Easy | Prefix Sum | O(n) | Done |
+
+
 
 
 
