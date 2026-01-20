@@ -93,6 +93,8 @@ java-20-days-dsa/
 | 724 | Find Pivot Index | Easy | Prefix Sum | O(n) | Done |
 | 209 | Minimum Size Subarray Sum | Medium | Sliding Window | O(n) | Done |
 | 219 | Contains Duplicate II | Easy | Sliding Window, HashSet | O(n) | Done |
+| 713 | Subarray Product Less Than K | Medium | Sliding Window (Product) | O(n) | Done |
+
 
 
 
