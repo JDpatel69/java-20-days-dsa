@@ -94,6 +94,7 @@ java-20-days-dsa/
 | 209 | Minimum Size Subarray Sum | Medium | Sliding Window | O(n) | Done |
 | 219 | Contains Duplicate II | Easy | Sliding Window, HashSet | O(n) | Done |
 | 713 | Subarray Product Less Than K | Medium | Sliding Window (Product) | O(n) | Done |
+| 1004 | Max Consecutive Ones III | Medium | Sliding Window | O(n) | Done |
 
 
 
