@@ -96,6 +96,8 @@ java-20-days-dsa/
 | 713 | Subarray Product Less Than K | Medium | Sliding Window (Product) | O(n) | Done |
 | 1004 | Max Consecutive Ones III | Medium | Sliding Window | O(n) | Done |
 | 503 | Next Greater Element II | Medium | Monotonic Stack + Circular Ar | O(n) | Done |
+| 84 | Largest Rectangle in Histogram | Hard | Monotonic Stack | O(n) | Done |
+
 
 
 
