@@ -97,6 +97,8 @@ java-20-days-dsa/
 | 1004 | Max Consecutive Ones III | Medium | Sliding Window | O(n) | Done |
 | 503 | Next Greater Element II | Medium | Monotonic Stack + Circular Ar | O(n) | Done |
 | 84 | Largest Rectangle in Histogram | Hard | Monotonic Stack | O(n) | Done |
+| 704 | Binary Search | Easy | Binary Search | O(log n) | Done |
+
 
 
 
