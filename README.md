@@ -99,6 +99,8 @@ java-20-days-dsa/
 | 84 | Largest Rectangle in Histogram | Hard | Monotonic Stack | O(n) | Done |
 | 704 | Binary Search | Easy | Binary Search | O(log n) | Done |
 | 901 | Online Stock Span | Medium | Monotonic Stack | O(1) amortized | Done |
+| 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search | O(log n) | Done |
+
 
 
 
