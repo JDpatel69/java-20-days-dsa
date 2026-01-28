@@ -101,6 +101,7 @@ java-20-days-dsa/
 | 901 | Online Stock Span | Medium | Monotonic Stack | O(1) amortized | Done |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search | O(log n) | Done |
 | 33 | Search in Rotated Sorted Array | Medium | Binary Search | O(log n) | Done |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | Binary Search | O(log n) | Done |
 
 
 
