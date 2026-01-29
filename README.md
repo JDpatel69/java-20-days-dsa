@@ -102,6 +102,7 @@ java-20-days-dsa/
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Binary Search | O(log n) | Done |
 | 33 | Search in Rotated Sorted Array | Medium | Binary Search | O(log n) | Done |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | Binary Search | O(log n) | Done |
+| 162 | Find Peak Element | Medium | Binary Search | O(log n) | Done |
 
 
 
