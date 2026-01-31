@@ -104,6 +104,8 @@ java-20-days-dsa/
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | Binary Search | O(log n) | Done |
 | 162 | Find Peak Element | Medium | Binary Search | O(log n) | Done |
 | 682 | Baseball Game | Easy | Stack | O(n) | Done |
+| 150 | Evaluate Reverse Polish Notation | Medium | Stack | O(n) | Done |
+
 
 
 
