@@ -107,6 +107,7 @@ java-20-days-dsa/
 | 150 | Evaluate Reverse Polish Notation | Medium | Stack | O(n) | Done |
 | 735 | Asteroid Collision | Medium | Stack Simulation | O(n) | Done |
 | 215 | Kth Largest Element in an Array | Medium | Heap (PriorityQueue) | O(n log k) | Done |
+| 191 | Number of 1 Bits | Easy | Bit Manipulation | O(log n) | Done |
 
 
 
