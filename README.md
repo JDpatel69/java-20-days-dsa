@@ -113,6 +113,8 @@ java-20-days-dsa/
 | 695 | Max Area of Island | Medium | DFS / Flood Fill | O(n*m) | Done |
 | 733 | Flood Fill | Easy | DFS | O(m*n) | Done |
 | 128 | Longest Consecutive Sequence | Medium | HashSet | O(n) | Done |
+| 347 | Top K Frequent Elements | Medium | HashMap + Min Heap | O(n log k) | Done |
+
 
 
 
