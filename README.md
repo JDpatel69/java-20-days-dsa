@@ -116,6 +116,7 @@ java-20-days-dsa/
 | 347 | Top K Frequent Elements | Medium | HashMap + Min Heap | O(n log k) | Done |
 | 1047 | Remove All Adjacent Duplicates in String | Easy | Stack / StringBuilder | O(n) | Done |
 | 994 | Rotting Oranges | Medium | Multi-source BFS (Level Order) | O(m×n) | Done |
+| 542 | 01 Matrix | Medium | Multi-source BFS | O(m*n) | Done |
 
 
 
