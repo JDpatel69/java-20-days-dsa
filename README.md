@@ -119,6 +119,7 @@ java-20-days-dsa/
 | 542 | 01 Matrix | Medium | Multi-source BFS | O(m*n) | Done |
 | 58 | Length of Last Word | Easy | String Traversal (Reverse Scan) | O(n) | Done |
 | 973 | K Closest Points to Origin | Medium | With max heap | O(n log k) | Done |
+| 232 | Implement Queue using Stacks | Easy | Stack Simulation | Amortized O(1) | Done |
 
 
 
