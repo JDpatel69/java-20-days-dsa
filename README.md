@@ -121,7 +121,7 @@ java-20-days-dsa/
 | 973 | K Closest Points to Origin | Medium | With max heap | O(n log k) | Done |
 | 232 | Implement Queue using Stacks | Easy | Stack Simulation | Amortized O(1) | Done |
 | 198 | House Robber | Medium | DP – Two Variables (skip/take) | O(n) | Done |
-
+| 213 | House Robber II | Medium |  DP – Two Variables (skip/take) | O(n) | Done |
 
 
 
