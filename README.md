@@ -122,7 +122,7 @@ java-20-days-dsa/
 | 232 | Implement Queue using Stacks | Easy | Stack Simulation | Amortized O(1) | Done |
 | 198 | House Robber | Medium | DP – Two Variables (skip/take) | O(n) | Done |
 | 213 | House Robber II | Medium |  DP – Two Variables (skip/take) | O(n) | Done |
-
+| 69 | Sqrt(x) | Easy | Binary Search on Answer | O(log n) | Done |
 
 
 
