@@ -125,7 +125,7 @@ java-20-days-dsa/
 | 69 | Sqrt(x) | Easy | Binary Search on Answer | O(log n) | Done |
 | 326 | Power Of Three | Easy | Math | O(1) | Done 
 | 300 | Longest Increasing Subsequence | Medium | DP (2D → 1D) | O(n²) | Done |
-
+| 322 | Coin Change | Medium | DP (Unbounded Knapsack / Min Steps) | O(n * coins) | Done |
 
 
 
