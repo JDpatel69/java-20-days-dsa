@@ -126,7 +126,7 @@ java-20-days-dsa/
 | 326 | Power Of Three | Easy | Math | O(1) | Done 
 | 300 | Longest Increasing Subsequence | Medium | DP (2D → 1D) | O(n²) | Done |
 | 322 | Coin Change | Medium | DP (Unbounded Knapsack / Min Steps) | O(n * coins) | Done |
-
+| 416 | Partition Equal Subset Sum | Medium | DP (0/1 Knapsack – Subset Sum) | O(n * target) | Done |
 
 
 
