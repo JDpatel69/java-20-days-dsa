@@ -129,7 +129,7 @@ java-20-days-dsa/
 | 416 | Partition Equal Subset Sum | Medium | DP (0/1 Knapsack – Subset Sum) | O(n * target) | Done |
 | 98 | Validate Binary Search Tree | Medium | DFS + Recursion | O(n) | Done |
 | 207 | Course Schedule | Medium | Graph | O(V+E) | Done |
-
+| 210 | Course Schedule  II | Medium | Graph | O(V+E) | Done |
 
 
 
