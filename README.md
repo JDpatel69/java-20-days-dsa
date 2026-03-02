@@ -131,6 +131,7 @@ java-20-days-dsa/
 | 207 | Course Schedule | Medium | Graph | O(V+E) | Done |
 | 210 | Course Schedule  II | Medium | Graph | O(V+E) | Done |
 | 27 | Remove Element | Easy | Linear Search | O(n) | Done |
+| 206 | Reverse Linked List | Easy | pointer change | O(n) | Done |
  
 
 
