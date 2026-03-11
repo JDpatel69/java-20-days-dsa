@@ -133,7 +133,7 @@ java-20-days-dsa/
 | 27 | Remove Element | Easy | Linear Search | O(n) | Done |
 | 206 | Reverse Linked List | Easy | pointer change | O(n) | Done |
 | 143 | Reorder List | Medium | devide + reverse + merge | O(n) | Done |
-
+| 876 | Middle of the Linked List | Easy | Two Pointer Search | O(n) | Done |
 
 
 
