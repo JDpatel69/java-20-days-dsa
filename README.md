@@ -134,7 +134,8 @@ java-20-days-dsa/
 | 206 | Reverse Linked List | Easy | pointer change | O(n) | Done |
 | 143 | Reorder List | Medium | devide + reverse + merge | O(n) | Done |
 | 876 | Middle of the Linked List | Easy | Two Pointer Search | O(n) | Done |
-
+| 141 | Linked List Cycle | Easy | Fast & Slow Pointer | O(n) | Done |
+| 142 | Linked List Cycle II | Medium | Fast & Slow + Entry Point | O(n) | Done |
 
 
 
