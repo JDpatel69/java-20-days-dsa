@@ -137,7 +137,7 @@ java-20-days-dsa/
 | 141 | Linked List Cycle | Easy | Fast & Slow Pointer | O(n) | Done |
 | 142 | Linked List Cycle II | Medium | Fast & Slow + Entry Point | O(n) | Done |
 | 138 | Copy List with Random Pointer | Medium | HashMap two-pass | O(n) | Done |
-
+| 104 | Maximum Depth of Binary Tree | Easy | Recursion DFS | O(n) | Done |
 
 
 
